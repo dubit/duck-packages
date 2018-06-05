@@ -8,9 +8,32 @@
       ]
     },
     {
-    	"name": "duck-debug-menu",
-    	"gitUrl": "https://github.com/dubit/unity-debug-menu.git",
-    	"versions": [
+      "name": "duck-debug-menu",
+      "gitUrl": "https://github.com/dubit/unity-debug-menu.git",
+      "versions": [
+        "1.0.0",
+        "1.1.0"
+      ]
+    },
+    {
+      "name": "duck-heirarchy-behaviour",
+      "gitUrl": "https://github.com/dubit/unity-heirarchy-behaviour.git",
+      "versions": [
+        "1.0.0",
+        "1.1.0"
+      ]
+    },
+    {
+      "name": "duck-http",
+      "gitUrl": "https://github.com/dubit/unity-http.git",
+      "versions": [
+        "1.0.0"
+      ]
+    },
+    {
+      "name": "duck-forms",
+      "gitUrl": "https://github.com/dubit/unity-forms.git",
+      "versions": [
         "1.0.0"
       ]
     }
