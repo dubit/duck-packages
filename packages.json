@@ -6,6 +6,13 @@
       "versions": [
         "1.0.0"
       ]
+    },
+    {
+    	"name": "duck-debug-menu",
+    	"gitUrl": "https://github.com/dubit/unity-debug-menu.git",
+    	"versions": [
+        "1.0.0"
+      ]
     }
   ]
 }
