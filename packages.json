@@ -16,8 +16,8 @@
       ]
     },
     {
-      "name": "duck-heirarchy-behaviour",
-      "gitUrl": "https://github.com/dubit/unity-heirarchy-behaviour.git",
+      "name": "duck-hierarchy-behaviour",
+      "gitUrl": "https://github.com/dubit/unity-hierarchy-behaviour.git",
       "versions": [
         "1.0.0"
       ]
@@ -32,6 +32,34 @@
     {
       "name": "duck-forms",
       "gitUrl": "https://github.com/dubit/unity-forms.git",
+      "versions": [
+        "1.0.0"
+      ]
+    },
+    {
+      "name": "duck-fsm",
+      "gitUrl": "https://github.com/dubit/unity-fsm.git",
+      "versions": [
+        "1.0.0"
+      ]
+    },
+    {
+      "name": "duck-tween",
+      "gitUrl": "https://github.com/dubit/duck-tween.git",
+      "versions": [
+        "1.0.0"
+      ]
+    },
+    {
+      "name": "duck-persistent-data-store",
+      "gitUrl": "https://github.com/dubit/unity-persistent-data-store.git",
+      "versions": [
+        "1.0.0"
+      ]
+    },
+    {
+      "name": "duck-crypto",
+      "gitUrl": "https://github.com/dubit/unity-crypto.git",
       "versions": [
         "1.0.0"
       ]
