@@ -51,13 +51,6 @@
       ]
     },
     {
-      "name": "duck-persistent-data-store",
-      "gitUrl": "https://github.com/dubit/unity-persistent-data-store.git",
-      "versions": [
-        "1.0.0"
-      ]
-    },
-    {
       "name": "duck-crypto",
       "gitUrl": "https://github.com/dubit/unity-crypto.git",
       "versions": [
