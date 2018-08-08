@@ -27,7 +27,8 @@
       "name": "duck-http",
       "gitUrl": "https://github.com/dubit/unity-http.git",
       "versions": [
-        "1.0.0"
+        "1.0.0",
+        "2.0.0"
       ]
     },
     {
