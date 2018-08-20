@@ -1,6 +1,13 @@
 {
   "packages": [
     {
+      "name": "duck-utils",
+      "gitUrl": "https://github.com/dubit/duck-utils.git",
+      "versions": [
+        "1.0.0"
+      ]
+    },
+    {
       "name": "duck-waypoints",
       "gitUrl": "https://github.com/dubit/unity-waypoints.git",
       "versions": [
