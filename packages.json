@@ -4,7 +4,8 @@
       "name": "duck-utils",
       "gitUrl": "https://github.com/dubit/duck-utils.git",
       "versions": [
-        "1.0.0"
+        "1.0.0",
+        "1.1.0"
       ]
     },
     {
