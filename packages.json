@@ -75,6 +75,13 @@
       "versions": [
         "1.0.0"
       ]
+    },
+    {
+      "name": "duck-localisation",
+      "gitUrl": "https://github.com/dubit/unity-localisation.git",
+      "versions": [
+        "1.0.0"
+      ]
     }
   ]
 }
